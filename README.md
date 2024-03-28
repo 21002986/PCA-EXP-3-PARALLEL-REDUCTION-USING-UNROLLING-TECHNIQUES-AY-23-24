@@ -200,4 +200,4 @@ _global_ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 1048576 has executed with less elapsed time than 1048576 with blocks 2.83 ms,122.17 ms
