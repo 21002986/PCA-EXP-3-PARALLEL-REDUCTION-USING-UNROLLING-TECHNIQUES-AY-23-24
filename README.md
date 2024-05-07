@@ -2,7 +2,7 @@
 <h3>Name:K.Sai Vinay</h3>
 <h3>Reg.No:212221040069</h3>
 <h3>Ex.No:3</h3>
-<h3>DATE:02/04/24</h3>
+<h3>Date:02/04/24</h3>
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
   Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.</h3>
 
